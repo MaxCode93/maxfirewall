@@ -1,5 +1,5 @@
-## 🔥 MaxFirewall v1.1.0
- # Pequeño, simple y efectivo firewall sin root para Android
+## 🔥 MaxFirewall 🛡️
+ - Pequeño, simple y efectivo firewall sin root para Android
 
 ## ✨ Características principales:
 - 🛡️ Firewall avanzado para Android
